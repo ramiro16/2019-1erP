@@ -31,9 +31,25 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="autores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="autores.h" />
+		<Unit filename="libros.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libros.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="prestamos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="prestamos.h" />
+		<Unit filename="socios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="socios.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

@@ -1,8 +1,64 @@
 # depslib dependency file v1.0
-1557153098 source:d:\tapia\1er parcial\main.c
+1557327045 source:d:\tapia\1er parcial\main.c
 	<stdio.h>
 	<stdlib.h>
 	<conio.h>
 	<ctype.h>
 	<string.h>
+	"socios.h"
+	"libros.h"
+	"autores.h"
+	"prestamos.h"
+
+1557319035 d:\tapia\1er parcial\socios.h
+
+1557319035 source:d:\tapia\1er parcial\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"socios.h"
+	"libros.h"
+	"autores.h"
+	"prestamos.h"
+
+1557318263 source:d:\tapia\1er parcial\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"socios.h"
+	"libros.h"
+	"autores.h"
+	"prestamos.h"
+
+1557318001 d:\tapia\1er parcial\libros.h
+
+1557318001 d:\tapia\1er parcial\autores.h
+
+1557318263 source:d:\tapia\1er parcial\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"socios.h"
+	"libros.h"
+	"autores.h"
+	"prestamos.h"
+
+1557318263 d:\tapia\1er parcial\prestamos.h
+
+1557320058 source:d:\tapia\1er parcial\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"socios.h"
+	"libros.h"
+	"autores.h"
+	"prestamos.h"
 
